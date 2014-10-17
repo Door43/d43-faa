@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[faa:home|Door43 (faa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-faa|d43-faa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-faa/archive/master.zip|d43-faa.zip]]
+
+**Recent Changes**
+{{changes>ns = faa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/faa|Ethnologue data]]
+
